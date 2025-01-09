@@ -1,0 +1,22 @@
+{
+  "constant": False,
+  "inputs": [
+    {
+      "name": "_name",
+      "type": "string"
+    },
+    {
+      "name": "_price",
+      "type": "uint256"
+    },
+    {
+      "name": "_isHalal",
+      "type": "bool"
+    }
+  ],
+  "name": "addProduct",
+  "outputs": [],
+  "payable": False,
+  "stateMutability": "nonpayable",
+  "type": "function"
+}
