@@ -1,0 +1,2 @@
+python -m unittest test_halal_compliance_agent.py
+python -m unittest test_blockchain_agent.py
