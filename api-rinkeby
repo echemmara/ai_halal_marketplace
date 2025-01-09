@@ -1,0 +1,3 @@
+brownie console
+contract = Contract.from_abi("HalalMarketplace", "<CONTRACT_ADDRESS>", "<CONTRACT_ABI>")
+contract.products(1)  # Example query
