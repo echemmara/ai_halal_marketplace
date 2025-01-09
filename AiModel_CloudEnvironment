@@ -1,0 +1,2 @@
+gcloud ai models create halal-model --region YOUR_REGION
+gcloud ai versions create v1 --model halal-model --artifact-uri gs://your_bucket/halal_model.tflite --region YOUR_REGION
