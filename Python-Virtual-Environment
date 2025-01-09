@@ -1,0 +1,2 @@
+python3 -m venv halal_ai_env
+source halal_ai_env/bin/activate
