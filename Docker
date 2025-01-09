@@ -1,0 +1,2 @@
+docker build -t halal-mas .
+docker run -d -p 10000:10000 halal-mas
