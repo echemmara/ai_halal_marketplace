@@ -1,0 +1,2 @@
+brownie networks add rinkeby ETH "infura_project_id" "infura_secret"
+brownie run scripts/deploy_contract.py --network rinkeby
