@@ -1,0 +1,8 @@
+/ai_halal_marketplace
+├── /contracts  # Smart contracts (Solidity)
+├── /ai_models  # AI models (TensorFlow, PyTorch)
+├── /agents  # Multi-agent system components (SPADE)
+├── /data  # Dataset for training
+├── /config  # Configuration files
+├── /docs  # Documentation
+└── README.md  # Project documentation
